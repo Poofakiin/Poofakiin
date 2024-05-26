@@ -8,9 +8,9 @@ Benjamín Aguilar Osorio</a></h1>
 
 - 🔭 I'm currently in my 5th year, eager to join the professional sphere
 
-- 🌱 Interested in data analysis using advanced data science techniques
+- 🌱 Passionate about data analysis with advanced data science techniques. Continuously seeking new knowledge
 
-- 🌱 Always seeking ways to improve teamwork
+- 🚌 I'm interested in graph analysis and optimization problems.
 
 - 🎈 I possess theoretical knowledge of Python, C, Scala, and C++. I aim to further apply and enhance these skills
 
